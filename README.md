@@ -1,5 +1,6 @@
 [![Serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 [![Go Report Card](https://goreportcard.com/badge/github.com/whithajess/guardduty-slack-reporter)](https://goreportcard.com/report/github.com/whithajess/guardduty-slack-reporter)
+[![License](https://img.shields.io/github/license/whithajess/guardduty-slack-reporter.svg)](LICENSE.md)
 
 # GuardDuty Slack Reporter
 
