@@ -3,7 +3,7 @@
 
 # GuardDuty Slack Reporter
 
-A serverless application for reporting findings from GuardDuty via Cloudwatch events.
+A serverless application for reporting findings from GuardDuty via Cloudwatch events to Slack.
 
 ### Setup
 
