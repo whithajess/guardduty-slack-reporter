@@ -19,7 +19,7 @@ A serverless application for reporting findings from GuardDuty via Cloudwatch ev
   # The verification token
   # can be found under Basic Information in the App on https://api.slack.com/apps
   # This gives us the ability to check the messages sent to the App are actually coming from Slack
-  aws ssm put-parameter --name guardBotVerificationToken --type String --value SecretToken
+  aws ssm put-parameter --name guardBotOAuthAccessToken --type String --value SecretToken
 
   # The channel we want to post into
   aws ssm put-parameter --name guardChannel --type String --value ChannelID
