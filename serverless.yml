@@ -1,4 +1,4 @@
-service: guardduty-slack-reporter
+service: guardduty-notifications
 
 provider:
   name: aws

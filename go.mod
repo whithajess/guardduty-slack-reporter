@@ -1,4 +1,4 @@
-module github.com/RIPGlobal/aws-slack-notifications/services/guardduty-slack-reporter
+module github.com/RIPGlobal/aws-slack-notifications/services/guardduty-notifications
 
 go 1.13
 
